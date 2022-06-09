@@ -7,6 +7,7 @@ function App() {
     <div>
       <h2>Title</h2>
       <div>
+
         <button>Delete</button>
       </div>
     </div>
